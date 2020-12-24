@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=s9kX3vW_jhQ&list=PLZw5VfkTcc8Mzz6HS6-XNxfnEyHdyTlmP&index=32&pbjreload=101
+https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf
+http://wiki.electron.frba.utn.edu.ar/doku.php?id=td3:guiasupervivenciaasm
+https://elcodigoascii.com.ar/
+https://asmtutor.com/#lesson3
+http://ict.udlap.mx/people/oleg/docencia/ASSEMBLER/asm_interrup_21.html
+http://www.rohitab.com/structured-exception-handling-in-assembly-language
+file:///C:/Users/Mendoza/Downloads/Lenguaje%20ensamblador%205Ed.pdf
+file:///C:/Users/Mendoza/Downloads/Assembly_Language_Step_by_Step_Programmi.pdf
+https://www.programacion.com.py/escritorio/ensamblador/ejercicios-resueltos-en-ensamblador-8086
+https://www.programacion.com.py/escritorio/ensamblador/ejemplos-de-programas-en-ensamblador-8086
+https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1
+http://miensamblador.blogspot.com/2013/07/manejo-de-archivos.html
+https://faculty.kfupm.edu.sa/COE/aimane/assembly/pagegen-139.aspx.htm
+https://www.lawebdelprogramador.com/foros/Ensamblador/998314-numeros-aleatorios-en-ensamblador.html
+http://arantxa.ii.uam.es/~gdrivera/labetcii/int_dos.htm
+http://pixelartmaker.com/
